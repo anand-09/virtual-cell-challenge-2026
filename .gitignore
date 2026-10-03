@@ -1,0 +1,15 @@
+# Python virtual environment
+vcc_env/
+venv/
+*.pyc
+__pycache__/
+
+# Large datasets & raw files (>100MB)
+data/context_*.h5ad
+*.h5ad
+submissions/
+*.vcc
+*.zst
+
+# macOS metadata
+.DS_Store
