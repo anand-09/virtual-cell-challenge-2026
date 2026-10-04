@@ -1,0 +1,1 @@
+STRING database terms: https://string-db.org/cgi/access. Accessed on Sun Oct  4 15:01:29 UTC 2026
